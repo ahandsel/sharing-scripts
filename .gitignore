@@ -1,3 +1,13 @@
+# Ignore Temp Files
+temp.*
+temp-*
+.DS_Store
+markdown-lint-log.txt
+
+# Test Files
+input.md
+output.md
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
